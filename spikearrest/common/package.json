@@ -1,6 +1,6 @@
 {
   "name": "volos-spikearrest-common",
-  "version": "0.10.5",
+  "version": "0.10.6",
   "main": "lib/spikearrest.js",
   "license": "MIT",
   "description": "Common library for Spike Arrest enforcement in the Volos system.",
@@ -11,9 +11,8 @@
   ],
   "dependencies": {
     "debug": "^2.2.0",
-    "underscore": "^1.13.6"
+    "underscore": "1.13.8"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/apigee/volos.git"
